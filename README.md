@@ -1,1 +1,2 @@
-# odin-recipes
+My current project is to make a website with a home page that is connected to 3 different recipe pages. Each recipe page has a picture of the dish, an unordered list of ingredients and an ordered list of instructions. I have demonstrated html skills of adding text, links and images. I have also shown knowledge of elements, tags and attributes.# odin-reci
+pes
